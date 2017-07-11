@@ -5,6 +5,6 @@ In case you have questions about the project, feel free to contact: konstantinla
 
 #### funciona no tensorflow==1.1.0 e keras==2.0.2
 
-  $  sudo bin/pip3 install tensorflow-gpu==1.1.0
-  $  sudo bin/pip3 install keras==2.0.2 --upgrade
-  $  sudo bin/pip3 install h5py
+    $  sudo bin/pip3 install tensorflow-gpu==1.1.0
+    $  sudo bin/pip3 install keras==2.0.2 --upgrade
+    $  sudo bin/pip3 install h5py
